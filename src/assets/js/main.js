@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Cloudflare Worker API Configuration
     const API_CONFIG = {
-        endpoint: 'https://morning-cell-1282.mysvm.workers.dev/api/chat',
+        endpoint: 'https://amkyawdev.mysvm.workers.dev/api/chat',
         retries: 3,
         timeout: 10000,
         headers: {
